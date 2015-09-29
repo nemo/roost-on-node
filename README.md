@@ -9,7 +9,7 @@ You can install roost-web-push and its dependencies with npm: `npm install roost
 - [node](http://nodejs.org/)
 - [request](https://github.com/request/request)
 
-You will also need a Roost account. (Available for free at [GoRoost.com](https://goroost.com).)
+You will also need a Roost account. ([GoRoost.com](https://goroost.com) - 30-day trials offered.)
 
 ## Usage
 
